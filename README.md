@@ -19,3 +19,7 @@ Detailed project specifications [here](https://review.udacity.com/#!/rubrics/265
 - HTML
 - CSS
 - JAVASCRIPT
+
+## View result Demo
+To view the live website and explore the project features, [click here.](https://jen123-tech.github.io/landing-page/)
+
